@@ -1,3 +1,3 @@
 import os
 import smsbombing
-smsbombing.login,()
+smsbombing.login()
